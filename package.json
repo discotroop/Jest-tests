@@ -1,0 +1,23 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "testing out jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discotroop/Jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discotroop/Jest-tests/issues"
+  },
+  "homepage": "https://github.com/discotroop/Jest-tests#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "jest": "^24.9.0"
+  }
+}
